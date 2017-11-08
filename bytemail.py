@@ -37,7 +37,7 @@ class ByteMail:
                 "get_messages":get_messages.get_messages,
                 "get_nodes":get_nodes.get_nodes,
                 }
-        self.broker = ("198.147.20.190", 4321)
+        self.broker = ("namethatanimalpenis.com", 4321)
         self.addr = addr
         self.pubkey = pubkey
         self.port = 5333
